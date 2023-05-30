@@ -7,3 +7,4 @@ commit test
 Add line
 new branch line
 two branch line
+new line for GUI
